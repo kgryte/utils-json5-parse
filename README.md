@@ -62,7 +62,7 @@ var fs = require( 'fs' ),
 	path = require( 'path' ),
 	parse = require( 'utils-json5-parse' );
 
-// Load an JSON5 file...
+// Load a JSON5 file...
 var file = path.resolve( '/path/to/file.json5' );
 file = fs.readFileSync( file, {
 	'encoding': 'utf8'
