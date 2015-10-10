@@ -1,5 +1,5 @@
 {
-  "name": "utils-json-parse",
+  "name": "utils-json5-parse",
   "version": "0.0.0",
   "description": "Attempts to parse an input string as JSON5.",
   "author": {
